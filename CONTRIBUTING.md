@@ -241,3 +241,6 @@ However, when you open a Jupyter notebook with Google Colab, it squishes all of 
 
 This makes it difficult to compare & merge Jupyter notebooks written in JupyterLab vs Colab via `git diff`.
 To keep our notebooks easy to compare & merge, we strongly prefer JupyterLab for editing.
+
+### Accessibility 
+Text here 
